@@ -1,0 +1,2 @@
+class SocialItems extends Component {
+}

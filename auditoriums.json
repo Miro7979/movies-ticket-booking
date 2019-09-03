@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Stora Salongen",
+    "seatsPerRow": [
+      8,
+      9,
+      10,
+      10,
+      10,
+      10,
+      12,
+      12
+    ],
+    "info": "Salongen har 81 platser på 8 rader. Det finns gång på båda sidor av salongen. Ingång sker längst fram på höger sida. Utgång finns längst fram till vänster. Duken är 30,5 m bred. Rullstolsplatser och hörslinga finns. För reservation av rullstolsplatser var vänlig och ring 011-123456",
+    "ljud": "Ljud: Dolby Atmos och IMAX",
+    "projektor": "Bild: Vi är DCI-certifierade och kan visa DCP:er i full 2K, 4K och 3D via Dolby DSS200.",
+    "image": "storasalongen.JPG",
+    "butik": "Vad är ett biobesök utan popcorn och läsk? Självklart har vi mycket annat att välja på i vår biografbutik. På denna sida kan du se ett urval av vad du kan köpa på vår biografbutik – och fler godsaker utöver detta kan du hitta i våra hyllor i kiosken/butiken. Sött, salt eller surt – det är bara att välja! Vi har något för alla smaker!.",
+    "butikImage": "popcornanddrink.jpg",
+    "butikName": "Sortiment i butiken",
+    "aboutUs": "Familjeföretaget Filmvisarnas historia började skrivas redan i början på 1900-talet. Företaget, som drivs av Produktägaren T och B, grundades när deras farfar Franky i början av 1900-talet öppnade en tältbiograf i Lund. Verksamheten utvecklades så småningom till en biograf. Under 80-talet inledde Produktägarana ett samarbete med Grupp 6 om en biograf i Malmö. Samarbetet fungerade så pass bra att de båda företagen tillsammans bildade det gemensamma bolaget HB Bästa Bio, med Grupp 6 som tredje generationens drivande kraft bakom företaget. Bästa Bios kännetecken har blivit företagets förkärlek för kvalitetsfilm, vilket har resulterat i en lyckad blandning av smalare och bredare film på biografernas repertoarer. Målet för företaget är att samtliga biografer ska kunna ge en helhetsupplevelse vid ett biobesök. Service och kunnig biografpersonal ska hålla samma höga kvalitet som komfort och teknik.",
+    "aboutusImage": "aboutusImage.jpg",
+    "aboutusName": "FilmVisarna AB",
+    "regulations": "Biljetter går att återköpa på en salong senast 15 minuter innan filmstart om åldersgränsen gör att du eller någon i ditt sällskap inte kan se filmen. Som biografägare och som arena för publika visningar av film är vi skyldiga att kontrollera att lag om åldersgränserna följs (Lag 2010:1882, §11). Med vuxen avses en person som fyllt 18 år och är myndig. Man behöver vara beredd att kunna styrka sin ålder med en ID-handling, till exempel pass.",
+    "regulationName": "Salongens Regler",
+    "event": "Våra salonger är en spännande mötesplats där du kan förvandla ditt möte till en upplevelse. Ta tillvara på bioeffekten och låt ditt budskap få större genomslag med stora bild- och ljudformat. På biografen kan du hålla alltifrån stora kongresser och bolagsstämmor till mindre frukostmöten och familjeevent. Bjud dina kunder till exklusiva filmevent och produktlanseringar eller dina kollegor på en trevlig kick-off och konferens.",
+    "eventImage": "eventImage.jpg",
+    "eventName": "Möte & Event"
+  },
+  {
+    "name": "Mellan Salongen",
+    "seatsPerRow": [
+      7,
+      8,
+      9,
+      10,
+      10,
+      11,
+      12
+    ],
+    "info": "Salongen har 67 platser på 7 rader. Det finns gång på båda sidor av salongen. Ingång sker längst fram på höger sida. Utgång finns längst fram till vänster. Duken är 20,5 m bred.Rullstolsplatser och hörslinga finns. För reservation av rullstolsplatser ring 011-123456",
+    "ljud": "Ljud: Dolby Atmos system",
+    "projektor": "Bild: Vi är DCI-certifierade och kan visa DCP:er i full 2K och 4K via Dolby DSS200.",
+    "image": "mellansalongen.JPG"
+  },
+  {
+    "name": "Lilla Salongen",
+    "seatsPerRow": [
+      6,
+      8,
+      9,
+      10,
+      10,
+      12
+    ],
+    "info": "Salongen har 55 platser på 6 rader. Det finns gång på båda sidor av salongen. Ingång sker längst fram på höger sida. Utgång finns längst fram till vänster. Duken är 12,5 m bred.Rullstolsplatser och hörslinga finns. För reservation av rullstolsplatser ring 011-123456",
+    "ljud": "Ljud: Digital Theatre System",
+    "projektor": "Bild: Vi är DCI-certifierade och kan visa DCP:er i full 2K och 4K via Dolby DSS200.",
+    "image": "lillasalongen.JPG"
+  }
+]

@@ -1,0 +1,85 @@
+[core]
+	bare = false
+	repositoryformatversion = 0
+	filemode = false
+	symlinks = false
+	ignorecase = true
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/DanielKeArvidsson/cinemaGroupSix.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[branch "Dev"]
+	remote = origin
+	merge = refs/heads/Dev
+[branch "User-model"]
+	remote = origin
+	merge = refs/heads/User-model
+[branch "Model-for-moive_theaters"]
+	remote = origin
+	merge = refs/heads/Model-for-moive_theaters
+[branch "Seat-Model"]
+	remote = origin
+	merge = refs/heads/Seat-Model
+[branch "Daniel/import"]
+	remote = origin
+	merge = refs/heads/Daniel/import
+[branch "feature/seatId4User"]
+	remote = origin
+	merge = refs/heads/feature/seatId4User
+[branch "ShowtimeSchema"]
+	remote = origin
+	merge = refs/heads/ShowtimeSchema
+[branch "booking"]
+	remote = origin
+	merge = refs/heads/booking
+[branch "Daniel/auditorium"]
+	remote = origin
+	merge = refs/heads/Daniel/auditorium
+[branch "feature/create84shows"]
+	remote = origin
+	merge = refs/heads/feature/create84shows
+[branch "BookTicket"]
+	remote = origin
+	merge = refs/heads/BookTicket
+[branch "feature/salong"]
+	remote = origin
+	merge = refs/heads/feature/salong
+[branch "Daniel/more-info"]
+	remote = origin
+	merge = refs/heads/Daniel/more-info
+[branch "feature/communicate-backend"]
+	remote = origin
+	merge = refs/heads/feature/communicate-backend
+[branch "Daniel/booking-test"]
+	remote = origin
+	merge = refs/heads/Daniel/booking-test
+[branch "Salong-Info-Page"]
+	remote = origin
+	merge = refs/heads/Salong-Info-Page
+[branch "thicketCounter"]
+	remote = origin
+	merge = refs/heads/thicketCounter
+[branch "MoreSalongsInfo"]
+	remote = origin
+	merge = refs/heads/MoreSalongsInfo
+[branch "MoreSalongsInfo2"]
+	remote = origin
+	merge = refs/heads/MoreSalongsInfo2
+[branch "Graf-Resp-Style"]
+	remote = origin
+	merge = refs/heads/Graf-Resp-Style
+[branch "show-respon"]
+	remote = origin
+	merge = refs/heads/show-respon
+[branch "navbar-fix"]
+	remote = origin
+	merge = refs/heads/navbar-fix
+[branch "AboutUsPage"]
+	remote = origin
+	merge = refs/heads/AboutUsPage
+[branch "eol"]
+	remote = origin
+	merge = refs/heads/eol

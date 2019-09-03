@@ -1,0 +1,57 @@
+* {
+  box-sizing: border-box;
+}
+.start-page {
+  @media screen and (max-width: 550px) {
+    h5 {
+      font-size: 10px;
+    }
+    p {
+      font-size: 7px;
+    }
+  }
+  @media screen and (min-width: 900px) {
+    h5 {
+      font-size: 30px;
+    }
+    p{
+      font-size: 15px;
+    }
+  }
+  }
+
+
+body {
+  background-image: url('/images/cinema.png');
+  background-size: cover;
+  background-attachment: fixed;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+
+  .all-content {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+
+    main {
+      flex: 1;
+    }
+  }
+
+  h2 {
+    color: white;
+  }
+
+  .carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+
+  .startPage {
+    margin-top: 70px;
+  }
+
+  #carouselExampleIndicators {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+}

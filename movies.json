@@ -1,0 +1,234 @@
+[
+  {
+    "title": "Call me by your name",
+    "productionCountries": [
+      "Italien",
+      "USA"
+    ],
+    "productionYear": 2017,
+    "length": 132,
+    "genre": "Drama",
+    "distributor": "UIP",
+    "language": "engelska",
+    "subtitles": "svenska",
+    "director": "Luca Guadagnino",
+    "actors": [
+      "Armie Hammer",
+      "Timothée Chalamet",
+      "Michael Stuhlbarg"
+    ],
+    "description": "<p>Filmen utspelas i norra Italien sommaren 1983. En ung amerikansk-italienare blir förälskad i en amerikansk student som kommer för att studera och bo hos hans familj.</p><p>Tillsammans upplever de en oförglömlig sommar - full av musik, mat och kärlek - som för evigt kommer att förändra dem.</p>",
+    "images": [
+      "call-me-poster1.jpg",
+      "call-me-poster2.jpg"
+    ],
+    "youtubeTrailers": [
+      "Z9AYPxH5NTM"
+    ],
+    "reviews": [
+      {
+        "source": "Sydsvenskan",
+        "quote": "ett drama berättat med stor ömhet",
+        "stars": 4,
+        "max": 5
+      },
+      {
+        "source": "Svenska Dagbladet",
+        "quote": "en film att förälska sig i",
+        "stars": 5,
+        "max": 5
+      },
+      {
+        "source": "DN",
+        "quote": "en het romans i åttiotalskostym",
+        "stars": 4,
+        "max": 5
+      }
+    ]
+  },
+  {
+    "title": "Beskyddarna",
+    "productionCountries": [
+      "Frankrike"
+    ],
+    "productionYear": 2017,
+    "length": 138,
+    "genre": "Drama",
+    "distributor": "TriArt",
+    "language": "franska",
+    "subtitles": "svenska",
+    "director": "Xavier Beauvois",
+    "actors": [
+      "Laura Smet",
+      "Iris Bry",
+      "Nathalie Baye"
+    ],
+    "description": "<p>1915. På familjen Paradiers gård har mor och dotter tagit över sedan männen har begett sig till fronten. </p><p>De sliter hårt med jordbruket, men inser att de behöver hjälp och anställer Francine, en fattig kvinna som känner att hon äntligen har hittat en familj.</p>",
+    "images": [
+      "beskyddarna1.jpg",
+      "beskyddarna2.jpg"
+    ],
+    "youtubeTrailers": [
+      "7w4zDaS7inE"
+    ],
+    "reviews": [
+      {
+        "source": "Svenska Dagbladet",
+        "quote": "Som att kliva in i en mustig men ordknapp tavla",
+        "stars": 4,
+        "max": 6
+      },
+      {
+        "source": "Svt Kulturnyheterna",
+        "quote": "Med ett ord: Nyanser",
+        "stars": 4,
+        "max": 5
+      },
+      {
+        "source": "Kulturbloggen",
+        "quote": "En film som inte engagerar tillräckligt men är som en vacker tavla.",
+        "stars": 3,
+        "max": 5
+      }
+    ]
+  },
+  {
+    "title": "Shoplifters",
+    "productionCountries": [
+      "Japan"
+    ],
+    "productionYear": 2018,
+    "length": 121,
+    "genre": "Drama",
+    "distributor": "TriArt",
+    "language": "japanska",
+    "subtitles": "svenska",
+    "director": "Hirokazu Kore-eda",
+    "actors": [
+      "Lily Franky",
+      "Sakura Andô",
+      "Mayu Matsuoka"
+    ],
+    "description": "<p>Efter en av sina snattningsrundor tillsammans med sin son upptäcker Osamu en övergiven flicka som står och fryser i kylan.</p><p> De tar hand om henne och släpper in henne i familjen. Trots att de är fattiga och knappt har mat för dagen så har de det ändå ganska bra tillsammans. </p>",
+    "images": [
+      "shoplifters1.jpg",
+      "shoplifters2.jpg"
+    ],
+    "youtubeTrailers": [
+      "2lqgxmq24qE"
+    ],
+    "reviews": [
+      {
+        "source": "Sydsvenskan",
+        "quote": "Skådespeleriet är utsökt",
+        "stars": 5,
+        "max": 5
+      },
+      {
+        "source": "Svenska Dagbladet",
+        "quote": "Nytt mästerverk av vår tids främsta familjeskildrare",
+        "stars": 6,
+        "max": 6
+      },
+      {
+        "source": "P1 Kultur",
+        "quote": "visar att kärlek och tillit kan spira där man minst anar det",
+        "stars": 5,
+        "max": 5
+      }
+    ]
+  },
+  {
+    "title": "Beautiful Boy",
+    "productionCountries": [
+      "USA"
+    ],
+    "productionYear": 2018,
+    "length": 121,
+    "genre": "Drama",
+    "distributor": "Scanbox",
+    "language": "engelska",
+    "subtitles": "svenska",
+    "director": "Felix van Groeningen",
+    "actors": [
+      "Steve Carell",
+      "Maura Tierney",
+      "Amy Ryan"
+    ],
+    "description": "<p>Den framgångsrike journalisten David Sheffs har alltid försökt ge sin älskade son allt han behöver. </p><p>Men vare sig David eller Nics mamma Vicki kan hindra sonen från att börja experimentera med crystal meth.</p>",
+    "images": [
+      "beautiful-boy1.jpg",
+      "beautiful-boy2.jpg"
+    ],
+    "youtubeTrailers": [
+      "y23HyopQxEg"
+    ],
+    "reviews": [
+      {
+        "source": "DN",
+        "quote": "makalöst gripande",
+        "stars": 4,
+        "max": 5
+      },
+      {
+        "source": "Sydsvenskan",
+        "quote": "avstår från pekpinnar och moralism",
+        "stars": 5,
+        "max": 5
+      },
+      {
+        "source": "SVT Kulturnyheterna",
+        "quote": "sätter känslorna i bitvis smärtsam gungning",
+        "stars": 3,
+        "max": 5
+      }
+    ]
+  },
+  {
+    "title": "Cold war",
+    "productionCountries": [
+      "Polen",
+      "Frankrike"
+    ],
+    "productionYear": 2018,
+    "length": 88,
+    "genre": "Drama",
+    "distributor": "Scanbox",
+    "language": "polska",
+    "subtitles": "svenska",
+    "director": "Pawel Pawlikowski",
+    "actors": [
+      "Borys Szyc",
+      "Tomasz Kot",
+      "Joanna Kulig"
+    ],
+    "description": "<p>Cold War är en passionerad kärlekshistoria mellan två personer vars öden flätas samman trots olika bakgrund och temperament, mot bakgrunden av kalla krigets 1950-tal i Polen, Berlin, Jugoslavien och Paris. </p>",
+    "images": [
+      "cold-war1.jpg",
+      "cold-war2.jpg"
+    ],
+    "youtubeTrailers": [
+      "BvPkDdFeTk8"
+    ],
+    "reviews": [
+      {
+        "source": "Sydsvenskan",
+        "quote": "magnifik filmkonst",
+        "stars": 5,
+        "max": 5
+      },
+      {
+        "source": "Svenska Dagbladet",
+        "quote": "en det underförståddas konst som bara en riktig mästare behärskar",
+        "stars": 6,
+        "max": 6
+      },
+      {
+        "source": "DN",
+        "quote": "en drabbande bild av Polens öde som nation",
+        "stars": 5,
+        "max": 5
+      }
+    ]
+  }
+]
